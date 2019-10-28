@@ -27,6 +27,8 @@ User Interface Specialist - Aissa Noui
 Introduction:
 Recently there has been a trend of “dockless” rentable bicycles and electric scooters, and currently Bird, Lime and Spin are the primary providers of these services. However, it is a hassle to open multiple applications to compare prices and distances of vehicles between different vendors. Our application, RightPrice, streamlines the process for renting vehicles by displaying all vehicles from different vendors on one map, filtering the displayed vehicles by services, price, and vehicle type, and allowing the user to directly start a ride of their choice through the application. Using the user’s information, RightPrice’s home screen is set to a Google map centered on the user’s current GPS location and displays all nearby vehicles shown in the form of bike and scooter pins, color coded by company. RightPrice can also filter the displayed vehicles by services, price, and vehicle type, which enable the user to control the map display to only show what they need at the moment. 
 
+YouTube presentation: https://www.youtube.com/watch?v=WYoZnwHm8Qc&feature=youtu.be
+
 Login Credentials:
 Email
 Password
