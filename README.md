@@ -57,14 +57,5 @@ Navigate to the rightmost screen on the device we provide and the application wi
 Known Bugs:
 No known bugs.
 
-Contact Info(for technical support):
-Name - Ryan McClure(project manager)
-Phone: (925)-457-8887
-      -	Email: rwmcclur@ucsd.edu
-
-Name- Austin Cheong
-Phone: (916)477-7993
-Email: aucheong@ucsd.edu
-
 
 
